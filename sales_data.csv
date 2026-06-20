@@ -1,0 +1,101 @@
+Order Date,Product,Category,Quantity,Unit Price,Revenue
+2025-01-01,Wool Sweater,Clothing,9,58.39,525.51
+2025-01-06,Recliner,Furniture,2,336.05,672.1
+2025-01-13,Denim Jeans,Clothing,4,52.24,208.96
+2025-01-15,Casual Dress,Clothing,5,35.76,178.8
+2025-01-21,Dining Table,Furniture,4,424.72,1698.88
+2025-01-23,Winter Jacket,Clothing,9,125.67,1131.03
+2025-02-01,Denim Jeans,Clothing,6,42.07,252.42
+2025-02-04,Smartphone Case,Electronics,4,16.09,64.36
+2025-02-10,Webcam HD,Electronics,11,42.07,462.77
+2025-02-11,Smartphone Case,Electronics,10,13.02,130.2
+2025-02-16,Leather Belt,Clothing,2,30.11,60.22
+2025-02-17,Cotton T-Shirt,Clothing,4,19.25,77.0
+2025-02-19,Bluetooth Headphones,Electronics,6,69.53,417.18
+2025-02-22,USB-C Charger,Electronics,9,20.14,181.26
+2025-03-10,Denim Jeans,Clothing,2,37.92,75.84
+2025-03-15,Filing Cabinet,Furniture,4,68.53,274.12
+2025-03-17,Baseball Cap,Clothing,1,16.44,16.44
+2025-03-21,Leather Belt,Clothing,4,18.79,75.16
+2025-03-21,Baseball Cap,Clothing,10,14.08,140.8
+2025-03-21,Bar Stool,Furniture,4,67.02,268.08
+2025-03-23,Office Chair,Furniture,6,163.77,982.62
+2025-03-24,Portable Speaker,Electronics,9,49.26,443.34
+2025-03-24,Smartwatch,Electronics,9,168.94,1520.46
+2025-03-25,Running Shoes,Clothing,5,67.73,338.65
+2025-04-04,Webcam HD,Electronics,4,31.13,124.52
+2025-04-09,Laptop Stand,Electronics,8,25.7,205.6
+2025-04-13,Coffee Table,Furniture,8,135.32,1082.56
+2025-04-15,Portable Speaker,Electronics,5,55.93,279.65
+2025-04-20,Power Bank 10000mAh,Electronics,3,25.11,75.33
+2025-04-21,Bookshelf,Furniture,6,126.99,761.94
+2025-04-23,Baseball Cap,Clothing,1,20.26,20.26
+2025-04-26,Laptop Stand,Electronics,1,21.91,21.91
+2025-04-27,Sofa,Furniture,11,389.16,4280.76
+2025-04-28,Baseball Cap,Clothing,1,18.82,18.82
+2025-04-28,Wireless Mouse,Electronics,1,18.01,18.01
+2025-05-03,Sofa,Furniture,10,323.16,3231.6
+2025-05-03,Casual Dress,Clothing,3,43.27,129.81
+2025-05-05,Leather Belt,Clothing,7,30.68,214.76
+2025-05-06,Standing Desk,Furniture,3,223.9,671.7
+2025-05-09,Leather Belt,Clothing,1,33.1,33.1
+2025-05-16,Smartphone Case,Electronics,10,8.45,84.5
+2025-05-17,Baseball Cap,Clothing,6,21.52,129.12
+2025-05-22,Webcam HD,Electronics,6,21.75,130.5
+2025-05-23,Webcam HD,Electronics,6,38.13,228.78
+2025-05-27,Filing Cabinet,Furniture,12,79.6,955.2
+2025-05-29,Laptop Stand,Electronics,4,49.55,198.2
+2025-06-05,Cotton T-Shirt,Clothing,7,12.86,90.02
+2025-06-10,Dining Table,Furniture,9,309.09,2781.81
+2025-06-10,Bar Stool,Furniture,2,56.53,113.06
+2025-06-11,Wireless Mouse,Electronics,2,28.02,56.04
+2025-06-11,Smartphone Case,Electronics,8,10.54,84.32
+2025-06-11,Baseball Cap,Clothing,4,24.01,96.04
+2025-06-15,Smartphone Case,Electronics,2,13.85,27.7
+2025-06-18,Webcam HD,Electronics,2,31.13,62.26
+2025-07-01,Portable Speaker,Electronics,5,34.42,172.1
+2025-07-06,Running Shoes,Clothing,11,65.87,724.57
+2025-07-14,Bluetooth Headphones,Electronics,6,35.79,214.74
+2025-07-14,USB-C Charger,Electronics,7,10.02,70.14
+2025-07-24,Bar Stool,Furniture,3,44.47,133.41
+2025-07-31,USB-C Charger,Electronics,12,10.36,124.32
+2025-08-03,Power Bank 10000mAh,Electronics,10,19.4,194.0
+2025-08-05,Smartphone Case,Electronics,2,8.37,16.74
+2025-08-11,Smartwatch,Electronics,1,98.97,98.97
+2025-08-13,Dining Table,Furniture,8,424.89,3399.12
+2025-08-23,Winter Jacket,Clothing,2,88.45,176.9
+2025-08-28,Bed Frame,Furniture,1,365.95,365.95
+2025-09-06,Bluetooth Headphones,Electronics,9,78.95,710.55
+2025-09-06,Webcam HD,Electronics,7,39.24,274.68
+2025-09-14,Winter Jacket,Clothing,9,128.57,1157.13
+2025-09-16,Laptop Stand,Electronics,9,38.05,342.45
+2025-09-17,Winter Jacket,Clothing,7,87.83,614.81
+2025-09-18,Wireless Mouse,Electronics,3,18.39,55.17
+2025-09-21,Standing Desk,Furniture,11,197.59,2173.49
+2025-09-28,Smartwatch,Electronics,7,184.68,1292.76
+2025-10-03,Baseball Cap,Clothing,10,13.93,139.3
+2025-10-04,Coffee Table,Furniture,10,80.57,805.7
+2025-10-05,Smartphone Case,Electronics,6,8.72,52.32
+2025-10-07,Hooded Sweatshirt,Clothing,6,25.89,155.34
+2025-10-09,Mechanical Keyboard,Electronics,11,45.86,504.46
+2025-10-15,Wool Sweater,Clothing,2,35.43,70.86
+2025-10-19,Standing Desk,Furniture,10,199.23,1992.3
+2025-10-23,Casual Dress,Clothing,2,39.6,79.2
+2025-10-23,Webcam HD,Electronics,1,27.59,27.59
+2025-10-27,Wireless Mouse,Electronics,9,30.29,272.61
+2025-11-02,Bed Frame,Furniture,9,399.02,3591.18
+2025-11-08,Denim Jeans,Clothing,9,49.04,441.36
+2025-11-12,Hooded Sweatshirt,Clothing,7,39.22,274.54
+2025-11-15,Mechanical Keyboard,Electronics,2,99.9,199.8
+2025-11-24,Smartwatch,Electronics,4,140.91,563.64
+2025-11-25,Dining Table,Furniture,11,327.34,3600.74
+2025-12-04,USB-C Charger,Electronics,9,17.12,154.08
+2025-12-07,Webcam HD,Electronics,11,57.6,633.6
+2025-12-08,Cotton T-Shirt,Clothing,5,18.16,90.8
+2025-12-08,Running Shoes,Clothing,9,46.16,415.44
+2025-12-09,Bed Frame,Furniture,4,366.01,1464.04
+2025-12-15,USB-C Charger,Electronics,2,16.32,32.64
+2025-12-20,Power Bank 10000mAh,Electronics,5,19.01,95.05
+2025-12-23,Bed Frame,Furniture,3,223.9,671.7
+2025-12-26,Bookshelf,Furniture,1,67.56,67.56
+2025-12-27,Recliner,Furniture,11,260.49,2865.39
